@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>등촌 셔츠룸 추천 가이드</title>
+  <rect width="64" height="64" rx="10" fill="hsl(316 71% 22%)"/>
+  <g transform="rotate(90 32 32)"><path d="M32 14 52 48H12Z" fill="none" stroke="hsl(316 24% 96%)" stroke-width="8" stroke-linejoin="round"/><path d="M32 30 41 46H23Z" fill="hsl(85 68% 67%)"/></g>
+</svg>
